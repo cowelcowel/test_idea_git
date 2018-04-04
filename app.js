@@ -1,4 +1,4 @@
-app_test_idea_git_ideaidea
+app_test_idea_git_github
 momo
 lol
-ideaideai
+github
