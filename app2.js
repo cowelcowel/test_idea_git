@@ -2,4 +2,4 @@ haha
 hahaieda
 idea
 ideagithub
-idea
+github
