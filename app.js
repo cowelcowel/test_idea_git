@@ -1,6 +1,6 @@
-app_test_idea_git_idea
+app_test_idea_git_github
 momo
 lol
-idea
+github
 
 haha
